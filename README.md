@@ -1,4 +1,4 @@
 ## Web Development Foundation
 
-![pic](./projects.png)
+![pic](./projects.jpg)
 
